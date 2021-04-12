@@ -1,1 +1,1 @@
-[MyPortfolio](http://mohd-faizy.github.io/)
+Portfolio - http://mohd-faizy.github.io/
