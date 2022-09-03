@@ -1,1 +1,0 @@
-# mohd-faizy.github.io
