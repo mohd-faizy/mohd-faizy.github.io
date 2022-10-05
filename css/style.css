@@ -1500,5 +1500,6 @@ input[type="text"] {
 
 .pnglogo {
   margin-left: 20px;
+  margin-bottom: 0px;
   width: 180px;
 }
