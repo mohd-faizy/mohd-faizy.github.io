@@ -11164,7 +11164,7 @@ h6,
   box-shadow: 1px 1px 50px #000000;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   #about-png {
     width: 80%;
     margin: -141px 36px;
