@@ -1,10 +1,5 @@
-/******* Bootstrap Theming ********/
-/*!
- * Bootstrap v4.5.3 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+/* CSS */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11148,7 +11143,10 @@ h6,
   list-style-type: none;
 }
 
-/* My CSS */
+
+/* New CSS  */
+
+/* Index CSS */
 #mlgif {
   width: 70%;
   margin: 0 4rem;
@@ -11164,23 +11162,6 @@ h6,
     padding: 0px;
     border-radius: 20px;
     box-shadow: 0px 1px 20px #607d8b;
-  }
-}
-
-/* about CSS */
-#about-png {
-  width: 80%;
-  margin: -415px 3rem;
-  border-radius: 25px;
-  box-shadow: 1px 1px 50px #000000;
-}
-
-@media (max-width: 800px) {
-  #about-png {
-    width: 80%;
-    margin: -141px 36px;
-    border-radius: 25px;
-    box-shadow: 1px 1px 50px #000000;
   }
 }
 
@@ -11258,7 +11239,7 @@ h6,
     margin-right: 1px;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   }
-
+  
   #stat4 {
     width: 104%;
     margin-top: 1px;
@@ -11277,9 +11258,37 @@ h6,
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   }
 }
+/* index CSS end */
+
+
+/* about CSS */
+#about-png {
+  width: 80%;
+  margin: -415px 3rem;
+  border-radius: 25px;
+  box-shadow: 1px 1px 50px #000000;
+}
+
+@media (max-width: 800px) {
+  #about-png {
+    width: 80%;
+    margin: -141px 36px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 50px #000000;
+  }
+}
+
+#eduCard {
+  margin: 10px auto;
+  padding: 15px 10px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+/* about CSS end */
+
 
 /* contact CSS */
-
 .cont-div-id {
   background: #f4f5f8;
 }
@@ -11293,6 +11302,7 @@ h6,
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   text-align: center;
 }
+/* contact CSS end */
 
 
 /* specilization CSS */
@@ -11300,6 +11310,37 @@ h6,
   width: 100%;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
+/* specilization CSS ends*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* #nlp-gif{
