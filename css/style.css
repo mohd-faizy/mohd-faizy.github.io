@@ -11148,6 +11148,7 @@ h6,
   list-style-type: none;
 }
 
+/* My CSS */
 #mlgif {
   width: 70%;
   margin: 0 4rem;
@@ -11186,48 +11187,94 @@ h6,
 /* gitstat CSS */
 
 #stat1 {
-  margin: 0px 20px;
-  margin-bottom: 10px;
+  width: 100%;
+  margin-top: 1px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+  margin-right: 1px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
 #stat2 {
-  margin: 0px 21px;
-  margin-bottom: 10px;
+  width: 100%;
+  margin-top: 1px;
+  margin-bottom: 30px;
+  margin-left: 1px;
+  margin-right: 37px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
 #stat3 {
-  width: 100%;
-  margin-left: -5px;
-  margin-bottom: 10px;
+  width: 72%;
+  margin-top: 1px;
+  margin-bottom: 30px;
+  margin-left: 177px;
+  margin-right: 1px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
 #stat4 {
-  margin: 0 35px;
+  width: 80%;
+  margin-top: 1px;
+  margin-bottom: 30px;
+  margin-left: 126px;
+  margin-right: 1px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 
-@media (max-width: 600px) {
+#stat5 {
+  width: 67%;
+  margin-top: 1px;
+  margin-left: 199px;
+  margin-right: 1px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+@media (max-width: 800px) {
   #stat1 {
-    margin: 0px 20px;
-    margin-bottom: 10px;
+    width: 100%;
+    margin-top: 1px;
+    margin-bottom: -5px;
+    margin-left: 1px;
+    margin-right: 0px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   }
 
   #stat2 {
-    margin-right: -15px;
-    margin-left: 11px;
-    margin-bottom: 10px;
+    width: 100%;
+    margin-top: 1px;
+    margin-bottom: 30px;
+    margin-left: 1px;
+    margin-right: 37px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   }
 
   #stat3 {
-    width: 100%;
-    margin-right: 0;
-    margin-left: 3px;
-    margin-bottom: 10px;
+    width: 110%;
+    margin-top: 1px;
+    margin-bottom: 30px;
+    margin-left: -11px;
+    margin-right: 1px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   }
 
   #stat4 {
-    width: 100%;
-    margin-right: 0;
-    margin-left: 2px;
+    width: 104%;
+    margin-top: 1px;
+    margin-bottom: 30px;
+    margin-left: -6px;
+    margin-right: 0px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  }
+
+  #stat5 {
+    width: 106%;
+    margin-top: 1px;
+    margin-left: -9px;
+    margin-right: 1px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   }
 }
 
