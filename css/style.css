@@ -11123,7 +11123,7 @@ h6,
 }
 
 .testimonial-carousel .owl-item.center .testimonial-item {
-  background: #e6e6fa;
+  background: #858585;
   opacity: 1;
 }
 
@@ -11138,7 +11138,7 @@ h6,
   left: -30px;
   right: -30px;
   bottom: 45px;
-  background: #5c616f;
+  background: #000000;
   border-radius: 4px;
   z-index: -1;
 }
@@ -11198,6 +11198,7 @@ h6,
   margin-left: 177px;
   margin-right: 1px;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  
 }
 
 #stat4 {
