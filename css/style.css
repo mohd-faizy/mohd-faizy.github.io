@@ -11149,10 +11149,13 @@ h6,
   list-style-type: none;
 }
 
-
+/* ---------------------------------------- */
 /* My CSS  */
+/* ---------------------------------------- */
 
+/* ---------------------------------------- */
 /* Index CSS */
+/* ---------------------------------------- */
 #mlgif {
   width: 70%;
   margin: 0 4rem;
@@ -11171,7 +11174,12 @@ h6,
   }
 }
 
+/* ---------------------------------------- */
+
+
+/* ---------------------------------------- */
 /* gitstat CSS */
+/* ---------------------------------------- */
 
 #stat1 {
   width: 100%;
@@ -11198,7 +11206,7 @@ h6,
   margin-left: 177px;
   margin-right: 1px;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
-  
+
 }
 
 #stat4 {
@@ -11273,8 +11281,11 @@ h6,
 }
 
 /* index CSS end */
+/* ---------------------------------------- */
 
 
+
+/* ---------------------------------------- */
 /* about CSS */
 #about-png {
   width: 80%;
@@ -11299,8 +11310,11 @@ h6,
 
 
 /* about CSS end */
+/* ---------------------------------------- */
 
 
+
+/* ---------------------------------------- */
 /* contact CSS */
 #con-gif {
   width: 15%;
@@ -11333,8 +11347,10 @@ h6,
 }
 
 /* contact CSS end */
+/* ---------------------------------------- */
 
 
+/* ---------------------------------------- */
 /* specilization CSS */
 #img-spec {
   width: 100%;
@@ -11342,6 +11358,7 @@ h6,
 }
 
 /* specilization CSS ends*/
+/* ---------------------------------------- */
 
 
 
@@ -11352,7 +11369,9 @@ h6,
 } */
 
 
+/* ---------------------------------------- */
 /* index button */
+/* ---------------------------------------- */
 
 /* CSS */
 .button-85 {
@@ -11421,3 +11440,55 @@ h6,
   top: 0;
   border-radius: 10px;
 }
+
+/* ---------------------------------------- */
+/* cert-CSS-all */
+/* ---------------------------------------- */
+.cert-div-id {
+  background: #f4f5f8;
+}
+
+.cert-container {
+  height: 180px;
+  width: 365px;
+  margin: 20px auto;
+  padding: 15px auto;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  text-align: center;
+}
+
+#cert-para1 {
+  margin-top: -100px;
+  margin-bottom: 45px;
+  margin-right: 55px;
+  margin-left: 30px;
+}
+
+#cert-para2 {
+  margin-top: -59px;
+  margin-bottom: 1px;
+  margin-right: 4px;
+  margin-left: 63px;
+}
+
+#cert-img {
+  width: 15%;
+  margin-top: -14px;
+  margin-bottom: 51px;
+  margin-right: 337px;
+  margin-left: 23px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px #000000;
+}
+
+#cert-btn {
+  /* width: 27%; */
+  margin-top: 30px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 210px;
+}
+
+/* End-cert-CSS-all */
+/* ---------------------------------------- */
