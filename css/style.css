@@ -11298,8 +11298,6 @@ h6,
 }
 
 
-
-
 /* about CSS end */
 
 
@@ -11314,7 +11312,7 @@ h6,
 @media (max-width: 800px) {
   #con-gif {
     width: 50%;
-    margin: 30px 84px;
+    margin: 30px 76px;
     border-radius: 200px;
     box-shadow: 1px 1px 40px #000000;
   }
